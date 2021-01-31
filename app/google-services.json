@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1067324229741",
+    "firebase_url": "https://firetest-c7ffc.firebaseio.com",
+    "project_id": "firetest-c7ffc",
+    "storage_bucket": "firetest-c7ffc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067324229741:android:074e1dcdd4a34a650f1764",
+        "android_client_info": {
+          "package_name": "com.rapser.firebasetutorial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067324229741-c4dlpfm66qf306ecet1v9jnt3066hae9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNUT9gKyu1KF-f_GCu7bYZtfGk8kWAU10"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067324229741-c4dlpfm66qf306ecet1v9jnt3066hae9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1067324229741-0i7tn9ch870e81ci3u3io50vto3t5c3h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rapser.fireTest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
